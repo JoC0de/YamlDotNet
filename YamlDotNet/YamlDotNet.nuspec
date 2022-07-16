@@ -12,7 +12,7 @@
         <iconUrl>http://aaubry.net/images/yamldotnet.png</iconUrl>
         <icon>images/yamldotnet.png</icon>
         <repository type="git" url="https://github.com/aaubry/YamlDotNet.git" />
-        <tags>yaml parser development library serialization</tags>        
+        <tags>yaml parser development library serialization</tags>
         <dependencies>
             <group targetFramework=".NETFramework4.5" />
             <group targetFramework=".NETFramework4.7" />
