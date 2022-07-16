@@ -90,12 +90,12 @@ Every commit and pull request is built on [AppVeyor](https://ci.appveyor.com/pro
 
 The project targets the following platforms:
 
+* .NET Framework 4.7
 * .NET Framework 4.5
 * .NET Framework 3.5
-* .NET Framework 2.0
 * .NET Standard 2.1
-* .NET Standard 1.3
 * Unity Subset v3.5
+* .NET 6.0
 
 In the csproj, the `TargetFrameworks` element also targets the following platforms for technical reasons:
 
